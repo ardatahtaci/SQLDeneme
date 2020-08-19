@@ -1,0 +1,10 @@
+C:\Users\ardam\source\repos\LotoAlgoritma\LotoAlgoritma\bin\Debug\LotoAlgoritma.exe.config
+C:\Users\ardam\source\repos\LotoAlgoritma\LotoAlgoritma\bin\Debug\LotoAlgoritma.exe
+C:\Users\ardam\source\repos\LotoAlgoritma\LotoAlgoritma\bin\Debug\LotoAlgoritma.pdb
+C:\Users\ardam\source\repos\LotoAlgoritma\LotoAlgoritma\obj\Debug\LotoAlgoritma.csprojAssemblyReference.cache
+C:\Users\ardam\source\repos\LotoAlgoritma\LotoAlgoritma\obj\Debug\LotoAlgoritma.Form1.resources
+C:\Users\ardam\source\repos\LotoAlgoritma\LotoAlgoritma\obj\Debug\LotoAlgoritma.Properties.Resources.resources
+C:\Users\ardam\source\repos\LotoAlgoritma\LotoAlgoritma\obj\Debug\LotoAlgoritma.csproj.GenerateResource.cache
+C:\Users\ardam\source\repos\LotoAlgoritma\LotoAlgoritma\obj\Debug\LotoAlgoritma.csproj.CoreCompileInputs.cache
+C:\Users\ardam\source\repos\LotoAlgoritma\LotoAlgoritma\obj\Debug\LotoAlgoritma.exe
+C:\Users\ardam\source\repos\LotoAlgoritma\LotoAlgoritma\obj\Debug\LotoAlgoritma.pdb
